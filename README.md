@@ -4,7 +4,7 @@
 
 ###  NAME: SRINATH N
 ###  ROLL NO : 2305003009
-###  DEPARTMENT:AL&ML
+###  DEPARTMENT:AI&ML
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
